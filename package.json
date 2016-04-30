@@ -1,0 +1,21 @@
+{
+  "name": "gulp-for-sass",
+  "version": "1.0.0",
+  "description": "Gulp script for realtime compiling Sass (scss) stylesheet.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davideferre",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/davideferre/gulp-for-sass.git"
+  }
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^2.0.0-alpha"
+  }
+}
